@@ -1,0 +1,1 @@
+This project focuses on analyzing the team event scores from the NCAA Women’s Gymnastics Championship spanning 2008 to 2024, excluding 2020 due to the event's cancellation. The goal is to leverage this data to uncover trends, correlations, and insights that explain team performance over time and the impact of specific events on overall scores and rankings.
